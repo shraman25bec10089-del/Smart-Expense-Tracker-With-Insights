@@ -55,6 +55,7 @@ It combines data storage, visualization, and reporting into one simple tool — 
 ## 📥 Installation
 
 git clone https://github.com/shraman25bec10089-del/Smart-Expense-Tracker-With-Insights
+
 cd expense-tracker  
 pip install matplotlib reportlab  
 
