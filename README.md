@@ -34,10 +34,10 @@ It combines data storage, visualization, and reporting into one simple tool — 
 ## 📸 Preview
 
 ### 📊 Expense Trend Graph
-![Graph](https://via.placeholder.com/800x400.png?text=Monthly+Expense+Graph)
+![Graph](https://via.placeholder.com/800x400.png?text=Monthly+Expense+)
 
 ### 🥧 Category Distribution
-![Pie Chart](https://via.placeholder.com/800x400.png?text=Category+Pie+Chart)
+![Pie Chart](file:///C:/Users/Shraman%20Bera/Desktop/Screenshot%202026-03-25%20002303.png)
 
 ### 📄 PDF Report
 ![PDF](https://via.placeholder.com/800x400.png?text=Generated+PDF+Report)
