@@ -33,14 +33,11 @@ It combines data storage, visualization, and reporting into one simple tool — 
 
 ## 📸 Preview
 
-### 📊 Expense Trend Graph
-![Graph](https://via.placeholder.com/800x400.png?text=Monthly+Expense+)
-
 ### 🥧 Category Distribution
-![Pie Chart](file:///C:/Users/Shraman%20Bera/Desktop/Screenshot%202026-03-25%20002303.png)
+![Pie Chart](https://blank-aqua-bareugtfho.edgeone.app/Screenshot%202026-03-25%20002303.png)
 
 ### 📄 PDF Report
-![PDF](https://via.placeholder.com/800x400.png?text=Generated+PDF+Report)
+![PDF](https://moral-lavender-qcsnjtmtpl.edgeone.app/Screenshot%202026-03-25%20004608.png)
 
 > Replace these images with real screenshots for better presentation.
 
